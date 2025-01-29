@@ -1,0 +1,5 @@
+I added some print statements to my time complexity code for part (b)
+of task 2, and I found the the Jarvis March function was taking forever
+to run even with just n=10. I assumed that this already told me that 
+the Jarvis March function would have the largest time complexity, but
+that was all I could collect.
