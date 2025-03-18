@@ -1,0 +1,6 @@
+Conclusion:
+The convex hull algorithms' runtime scales primarily with the number of 
+points and appears largely independent of the variance of the point cloud. 
+In our tests using a Gaussian distribution (variance=1), the measured 
+runtimes reflect the algorithms' inherent time complexities rather than 
+the spread of the data.

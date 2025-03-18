@@ -1,0 +1,7 @@
+Conclusion:
+The runtime measurements for the convex hull algorithms are nearly 
+independent of the range or variance of the point cloud. Changing the 
+coordinate bounds from [0,1] to [-5,5] does not significantly affect the 
+computational time. This is because the algorithms' time complexities 
+depend on the number of points rather than the absolute values of the 
+coordinates.

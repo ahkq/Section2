@@ -1,0 +1,7 @@
+Graham Scan: Best = 3.674e-04 s, Worst = 6.662e-03 s
+Jarvis March: Best = 7.757e-04 s, Worst = 3.900e-03 s
+Quickhull: Best = 6.861e-04 s, Worst = 4.151e-03 s
+Monotone Chain: Best = 4.398e-04 s, Worst = 9.288e-04 s
+The runtime distributions for n=50 appear approximately normal, 
+indicating that the variations are largely due to measurement 
+noise rather than changes in the point cloud variance.

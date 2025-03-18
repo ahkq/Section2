@@ -1,0 +1,7 @@
+Conclusion:
+The measured runtimes indicate that while all convex hull algorithms scale 
+with the number of points, their constant factors and scaling behavior 
+differ. For small n, differences are minimal; for large n, algorithms 
+like Quickhull and Monotone Chain tend to be faster than Jarvis March, 
+with Graham Scan performance dominated by the initial sorting step. These 
+observations are consistent with the theoretical time complexities.
